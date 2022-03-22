@@ -1,4 +1,6 @@
-# Desafio Dev Python Jr/Pl - 2022
+# Desafio Dev Python - 2022
+
+Neste desafio foram desenvolvidos 3 programas para avaliação de strings visando a aplicação em NLPs. O primeiro visa identificar substrings dentro de strings, os segundo determina se os caracteres '[ { (' foram abertos e , caso positivo, se foram fechados. Por fim, o terceiro programa separa um texto em sentenças menores, as avalia quanto à presença de certas expressões (expressões.txt) e a posição destes, avaliando se a mesma se encontra entre os 3 primeiros tokens da sentença e compilando o resultado em um dicionário disposto em JSON.
 
 Orientações gerais:
 
